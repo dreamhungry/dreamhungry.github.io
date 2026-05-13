@@ -1,189 +1,198 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Yufeng Huang
+  label: AI Systems Engineer, Game AI and LLM-driven Agents
+  email: yufeng_nba@163.com
+  website: https://www.dreamhungry.com/
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: AI systems engineer with 8+ years of experience in game AI, NPC systems, interactive agent behavior, and AI-assisted production tools. Research interests include human-centered AI agents for interactive virtual environments, believable and controllable LLM-driven agents, personality and memory modeling, long-term interaction, and AI-assisted creative tools.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: dreamhungry
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: dreamhungry
 
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Tencent, SGRA Studio
+        position: AI and Tools Lead
+        location: China
+        start_date: "2024-07"
+        end_date: Present
+        summary: Leading AI and tools work for a pre-launch interactive virtual-world game project.
         highlights:
-          - Relativity
-          - Description 2.
+          - Lead a five-person AI and tools group focused on NPC intelligence, agent behavior, and AI-assisted game production workflows.
+          - Developed NPC AI systems using behavior trees, finite-state machines, utility AI, and LLM-based modules to support personality, memory, autonomous behavior, and personalized player interaction.
+          - Led development of AI-assisted authoring and production tools, including narrative generation, corpus generation, automatic asset tagging, behavior tree generation, and construction blueprint generation.
+          - Contributed to gameplay systems involving character animation, NPC behavior, dialogue, quests, combat, and in-game chat.
+          - Previously worked on distributed server architecture for shared-world gameplay.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: ByteDance, Nuverse
+        position: Senior Software Engineer
+        location: China
+        start_date: "2021-06"
+        end_date: "2024-07"
+        summary: Developed game AI systems and production tools across multiple studio projects.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Developed tactical combat AI, open-world ambient NPC behavior, behavior trees, finite-state machines, and utility-based decision making.
+          - "Built combat AI for Dragonheir: Silent Gods, a launched strategy RPG, using behavior trees and state machines; also explored reinforcement learning for hero lineup and positioning strategies."
+          - Developed AI systems for an internal open-world ARPG project, including utility-based ambient NPC behavior and behavior-tree/state-machine combat AI.
+          - Explored AIGC applications in game production pipelines, including animation generation and UI icon generation.
+          - Built internal production tools such as blueprint editors, behavior tree editors, narrative editors, quest editors, and dialogue editors.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: NetEase Games
+        position: Senior Software Engineer
+        location: China
+        start_date: "2020-04"
+        end_date: "2021-06"
+        summary: Worked on an internal open-world MMORPG project.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Developed gameplay systems related to character control, camera, level design, and AI.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: NetEase Games
+        position: Senior Software Engineer
+        location: China
+        start_date: "2017-07"
+        end_date: "2019-07"
+        summary: Worked on Onmyoji Arena, a launched MOBA game.
+        highlights:
+          - Developed gameplay features including hero skills, event systems, and battle pass systems.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+    Research Interests:
+      - bullet: Human-AI interaction for interactive agents and virtual companions.
+      - bullet: LLM-driven agents with personality, memory, and long-term interaction.
+      - bullet: Game AI, character AI, and autonomous agents in virtual environments.
+      - bullet: AI-assisted authoring tools for narrative, quests, dialogue, and agent behavior.
+      - bullet: Evaluation of expressed and behavioral personality alignment in LLM agents.
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+    Education:
+      - institution: Huazhong University of Science and Technology
+        location: Wuhan, China
+        area: Pattern Recognition and Intelligent Systems
+        studyType: M.S.
+        start_date: "2014-09"
+        end_date: "2017-06"
+        score: GPA 3.43
+        courses:
+          - Pattern Recognition
+          - Computer Vision
+          - Digital Image Processing
+          - Machine Learning and Data Mining
+          - Digital Video Processing
+          - Matrix Theory
+          - Stochastic Processes
+        highlights:
+          - "GPA: 3.43."
+          - "Thesis: CNN-based Visual Place Recognition in Changing Environments."
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - institution: Huazhong University of Science and Technology
+        location: Wuhan, China
+        area: Measurement and Control Technology and Instrumentation
+        studyType: B.E.
+        start_date: "2010-09"
+        end_date: "2014-06"
+        score: GPA 3.73
+        courses:
+          - Calculus
+          - Linear Algebra
+          - Probability Theory
+          - C Programming
+          - Data Structures
+          - Computer Networks
+          - Automatic Control
+          - Digital Signal Processing
+        highlights:
+          - "GPA: 3.73."
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Mimosa — Long-term Multimodal Virtual Companion
+        url: https://github.com/dreamhungry/Mimosa
+        summary: A runnable personal research prototype for exploring long-term human-AI interaction with a multimodal virtual companion.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Built a web-based virtual companion with a Live2D avatar, text chat, voice input, speech recognition, text-to-speech, and real-time interaction through a FastAPI/WebSocket backend.
+          - Integrated multiple LLM providers, including OpenAI-compatible APIs, DeepSeek, Gemini, and local Ollama-based models.
+          - Designed a Big Five-based personality system with configurable traits, conversational style, and bounded self-evolution through LLM-based reflection.
+          - Implemented persistent conversation memory to support continuity and personalization across sessions.
+          - Used the prototype to explore how personality, memory, emotional expression, and multimodal interaction can support long-term relationships with virtual agents.
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: llm-persona-gap — Personality Alignment Evaluation for LLM Agents
+        url: https://github.com/dreamhungry/llm-persona-gap
+        summary: A prototype framework for investigating whether LLM agents act consistently with the personalities they express in language.
+        highlights:
+          - Represented agent personality with a four-dimensional trait vector covering risk, aggression, cooperation, and deception.
+          - Implemented dual-channel personality extraction using LLM-as-judge analysis for expressed traits and trajectory-based analysis for behavioral traits.
+          - Built evaluation support around RLCard environments, with preliminary experiments using ChatGPT- and DeepSeek-based agents across approximately 100 episodes.
+          - Implemented alignment and temporal analysis metrics, including L1 distance, cosine similarity, per-dimension gap analysis, consistency, and drift.
+          - Designed extensible behavioral extraction methods, including action annotation, state-aware scoring, and LLM-based behavioral judgment.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Publications:
+      - title: New bionic navigation algorithm based on the visual navigation mechanism of bees
+        authors:
+          - Yufeng Huang
+          - Yu Liu
+          - Jing Liu
+        publisher: Proceedings of SPIE, 9522, 235-240
+        releaseDate: "2015"
+        url: https://doi.org/10.1117/12.2179840
+        summary: Y. Huang, Y. Liu, and J. Liu. First author. EI indexed.
+
+      - title: Bionic navigation algorithm based on contrast entropy flow
+        authors:
+          - Lei Wang
+          - Yufeng Huang
+          - Jing Liu
+        publisher: China Sciencepaper, 2015(10), 967-970
+        releaseDate: "2015"
+        url: https://www.paper.edu.cn/releasepaper/content/201412-607
+        summary: L. Wang, Y. Huang, and J. Liu. Second author. In Chinese.
+
+      - title: CNN-based visual place recognition method
+        authors:
+          - Yufeng Huang
+          - Jing Liu
+        publisher: Computer & Digital Engineering, 2018(6)
+        releaseDate: "2018"
+        summary: Y. Huang and J. Liu. First author. In Chinese.
+
+    Skills:
+      - name: Programming
+        keywords:
+          - Python
+          - C/C++
+          - C#
+      - name: AI and machine learning
+        keywords:
+          - PyTorch
+          - Hugging Face
+          - LLM agents
+          - LangChain
+          - RAG
+      - name: Game AI
+        keywords:
+          - Behavior trees
+          - Finite-state machines
+          - Utility AI
+          - NPC systems
+          - Combat AI
+          - Gameplay systems
+      - name: Game engines and tools
+        keywords:
+          - Unity
+          - Unreal Engine
+          - Game editors
+          - AI-assisted production tools
+      - name: Backend and infrastructure
+        keywords:
+          - FastAPI
+          - WebSocket
+          - Docker
+          - Linux
+          - Distributed server architecture
+      - name: Experimentation and visualization
+        keywords:
+          - RLCard-based agent evaluation
+          - Trajectory analysis
+          - Alignment metrics
+          - Radar charts
+          - Heatmaps
+          - Drift plots

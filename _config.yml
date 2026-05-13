@@ -3,18 +3,19 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Dream
+first_name: Yufeng
 middle_name:
-last_name: Hungry
+last_name: Huang
 contact_note: >
+  Feel free to reach out for discussions on game AI, LLM-driven agents, and human-centered interactive AI.
 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal academic website.
+  Personal academic website of Yufeng Huang.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: game-ai, llm-agents, human-ai-interaction, virtual-agents, ai-assisted-tools # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
