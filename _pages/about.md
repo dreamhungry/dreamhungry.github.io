@@ -46,6 +46,9 @@ With 8+ years across Tencent, ByteDance, and NetEase, I've shipped real games th
 
 <div class="game-cards">
   <div class="game-card">
+    <div class="game-card-img">
+      <img src="/assets/img/logos/animula_nook_header.jpg" alt="Animula Nook">
+    </div>
     <div class="game-card-body">
       <h3 class="game-card-title">Animula Nook</h3>
       <span class="game-card-status">wishlists open</span>
@@ -53,11 +56,14 @@ With 8+ years across Tencent, ByteDance, and NetEase, I've shipped real games th
       <div class="game-card-links">
         <a href="https://store.steampowered.com/app/3767320/Animula_Nook/">Steam</a>
         <a href="https://www.wegame.com.cn/store/2002539/Animula_Nook">WeGame</a>
-        <a href="https://life.qq.com/">Official Site</a>
+        <a href="https://animulanook.com/en/">Official Site</a>
       </div>
     </div>
   </div>
   <div class="game-card">
+    <div class="game-card-img">
+      <img src="/assets/img/logos/dragonheir_header.jpg" alt="Dragonheir: Silent Gods">
+    </div>
     <div class="game-card-body">
       <h3 class="game-card-title">Dragonheir: Silent Gods</h3>
       <span class="game-card-status">launched 2023</span>
@@ -70,6 +76,9 @@ With 8+ years across Tencent, ByteDance, and NetEase, I've shipped real games th
     </div>
   </div>
   <div class="game-card">
+    <div class="game-card-img">
+      <img src="/assets/img/logos/Onmyoji Arena1.jpg" alt="Onmyoji Arena">
+    </div>
     <div class="game-card-body">
       <h3 class="game-card-title">Onmyoji Arena</h3>
       <span class="game-card-status">launched 2018</span>
