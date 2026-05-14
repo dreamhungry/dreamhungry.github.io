@@ -1,10 +1,18 @@
 cv:
   name: Yufeng Huang
-  label: AI Systems Engineer, Game AI and LLM-driven Agents
+  label: AI Systems Engineer | Game AI | LLM-driven Agents
   email: yufeng_nba@163.com
+  phone: "+86 180-2869-8696"
   website: https://www.dreamhungry.com/
   image: ""
-  summary: AI systems engineer with 8+ years of experience in game AI, NPC systems, interactive agent behavior, and AI-assisted production tools. Research interests include human-centered AI agents for interactive virtual environments, believable and controllable LLM-driven agents, personality and memory modeling, long-term interaction, and AI-assisted creative tools.
+  summary: >
+    AI systems engineer with 8+ years of industry experience in game AI, interactive agent systems,
+    and AI-assisted production tools across major studios (Tencent, ByteDance, NetEase).
+    My work spans the full spectrum of agent intelligence -- from traditional behavior trees and utility AI
+    to LLM-driven autonomous agents with personality and memory.
+    Research interests center on human-centered AI agents for interactive virtual environments --
+    how to build agents that are emotionally intelligent, personalized, and capable of
+    sustaining believable long-term relationships with users.
 
   social_networks:
     - network: GitHub
@@ -13,57 +21,11 @@ cv:
       username: dreamhungry
 
   sections:
-    Experience:
-      - company: Tencent, SGRA Studio
-        position: AI and Tools Lead
-        location: China
-        start_date: "2024-07"
-        end_date: Present
-        summary: Leading AI and tools work for a pre-launch interactive virtual-world game project.
-        highlights:
-          - Lead a five-person AI and tools group focused on NPC intelligence, agent behavior, and AI-assisted game production workflows.
-          - Developed NPC AI systems using behavior trees, finite-state machines, utility AI, and LLM-based modules to support personality, memory, autonomous behavior, and personalized player interaction.
-          - Led development of AI-assisted authoring and production tools, including narrative generation, corpus generation, automatic asset tagging, behavior tree generation, and construction blueprint generation.
-          - Contributed to gameplay systems involving character animation, NPC behavior, dialogue, quests, combat, and in-game chat.
-          - Previously worked on distributed server architecture for shared-world gameplay.
-
-      - company: ByteDance, Nuverse
-        position: Senior Software Engineer
-        location: China
-        start_date: "2021-06"
-        end_date: "2024-07"
-        summary: Developed game AI systems and production tools across multiple studio projects.
-        highlights:
-          - Developed tactical combat AI, open-world ambient NPC behavior, behavior trees, finite-state machines, and utility-based decision making.
-          - "Built combat AI for Dragonheir: Silent Gods, a launched strategy RPG, using behavior trees and state machines; also explored reinforcement learning for hero lineup and positioning strategies."
-          - Developed AI systems for an internal open-world ARPG project, including utility-based ambient NPC behavior and behavior-tree/state-machine combat AI.
-          - Explored AIGC applications in game production pipelines, including animation generation and UI icon generation.
-          - Built internal production tools such as blueprint editors, behavior tree editors, narrative editors, quest editors, and dialogue editors.
-
-      - company: NetEase Games
-        position: Senior Software Engineer
-        location: China
-        start_date: "2020-04"
-        end_date: "2021-06"
-        summary: Worked on an internal open-world MMORPG project.
-        highlights:
-          - Developed gameplay systems related to character control, camera, level design, and AI.
-
-      - company: NetEase Games
-        position: Senior Software Engineer
-        location: China
-        start_date: "2017-07"
-        end_date: "2019-07"
-        summary: Worked on Onmyoji Arena, a launched MOBA game.
-        highlights:
-          - Developed gameplay features including hero skills, event systems, and battle pass systems.
-
     Research Interests:
-      - bullet: Human-AI interaction for interactive agents and virtual companions.
-      - bullet: LLM-driven agents with personality, memory, and long-term interaction.
-      - bullet: Game AI, character AI, and autonomous agents in virtual environments.
-      - bullet: AI-assisted authoring tools for narrative, quests, dialogue, and agent behavior.
-      - bullet: Evaluation of expressed and behavioral personality alignment in LLM agents.
+      - bullet: Emotionally aware and personalized AI agents with long-term memory and adaptive behavior.
+      - bullet: Game AI and autonomous character behavior in interactive virtual environments.
+      - bullet: AI-assisted authoring tools for narrative, dialogue, and agent behavior design.
+      - bullet: Evaluation and alignment of agent behavior in interactive settings.
 
     Education:
       - institution: Huazhong University of Science and Technology
@@ -76,8 +38,8 @@ cv:
         courses:
           - Pattern Recognition
           - Computer Vision
-          - Digital Image Processing
           - Machine Learning and Data Mining
+          - Digital Image Processing
           - Digital Video Processing
           - Matrix Theory
           - Stochastic Processes
@@ -104,26 +66,72 @@ cv:
         highlights:
           - "GPA: 3.73."
 
-    Projects:
-      - name: Mimosa — Long-term Multimodal Virtual Companion
+    Selected Research Projects:
+      - name: Mimosa -- Multimodal Emotion-Aware Virtual Companion System
         url: https://github.com/dreamhungry/Mimosa
-        summary: A runnable personal research prototype for exploring long-term human-AI interaction with a multimodal virtual companion.
+        summary: "Independent Research Project | May 2026 -- Present. An end-to-end multimodal virtual companion that senses and responds to human emotion through voice and text, building a personalized and adaptive long-term relationship."
         highlights:
-          - Built a web-based virtual companion with a Live2D avatar, text chat, voice input, speech recognition, text-to-speech, and real-time interaction through a FastAPI/WebSocket backend.
-          - Integrated multiple LLM providers, including OpenAI-compatible APIs, DeepSeek, Gemini, and local Ollama-based models.
-          - Designed a Big Five-based personality system with configurable traits, conversational style, and bounded self-evolution through LLM-based reflection.
-          - Implemented persistent conversation memory to support continuity and personalization across sessions.
-          - Used the prototype to explore how personality, memory, emotional expression, and multimodal interaction can support long-term relationships with virtual agents.
+          - "Built a real-time voice and text interaction system with a Live2D avatar frontend, integrating VAD, ASR, LLM-based dialogue (multi-provider streaming), emotion extraction, expression mapping, and TTS into a unified bidirectional pipeline."
+          - "Implemented a Big Five-based configurable personality system with trait-driven conversational style and bounded self-evolution via LLM-based reflection on interaction history."
+          - "Designed an automatic memory extraction module that distills key personal facts from conversations, persists them as structured data, and reinjects them into context for cross-session continuity and personalization."
+          - "Extracted emotion categories directly from LLM responses and mapped them to Live2D facial expressions, enabling the avatar to reflect emotional understanding in real time."
 
-      - name: llm-persona-gap — Personality Alignment Evaluation for LLM Agents
+      - name: llm-persona-gap -- Personality Alignment Evaluation Framework for LLM Agents
         url: https://github.com/dreamhungry/llm-persona-gap
-        summary: A prototype framework for investigating whether LLM agents act consistently with the personalities they express in language.
+        summary: "Independent Research Project | Apr 2026 -- Present. A quantitative research framework for measuring the gap between expressed and behavioral personality in LLM-driven agents."
         highlights:
-          - Represented agent personality with a four-dimensional trait vector covering risk, aggression, cooperation, and deception.
-          - Implemented dual-channel personality extraction using LLM-as-judge analysis for expressed traits and trajectory-based analysis for behavioral traits.
-          - Built evaluation support around RLCard environments, with preliminary experiments using ChatGPT- and DeepSeek-based agents across approximately 100 episodes.
-          - Implemented alignment and temporal analysis metrics, including L1 distance, cosine similarity, per-dimension gap analysis, consistency, and drift.
-          - Designed extensible behavioral extraction methods, including action annotation, state-aware scoring, and LLM-based behavioral judgment.
+          - "Modeled personality as a continuous 4D vector (risk-taking, aggression, cooperation, deception) injected into agent prompts, supporting configurable personality presets for controlled experiments."
+          - "Independently extracted behavioral personality from action trajectories and expressed personality from reasoning text via LLM-as-judge, enabling quantitative comparison between what agents do vs. what they say."
+          - "Tested personality-conditioned LLM agents (GPT/DeepSeek) in Leduc Hold'em across 100+ episodes, with and without memory and communication channels."
+          - "Key findings: Observed significant misalignment -- agents maintained high temporal consistency (~0.98) but showed systematic gaps in specific dimensions (e.g., deception: 0.0 behavioral despite non-zero assignment)."
+
+    Experience:
+      - company: Tencent, SGRA Studio
+        position: AI and Tools Lead
+        location: China
+        start_date: "2024-07"
+        end_date: Present
+        summary: Led a five-person AI and tools group for Animula Nook, a pre-launch interactive virtual-world simulation game, focusing on NPC intelligence, agent behavior, and AI-assisted production workflows.
+        highlights:
+          - "Designed and built a hybrid NPC AI architecture combining behavior trees, FSMs, utility AI, and LLM-based modules. Each NPC exhibits configurable personality traits, maintains conversation memory, performs autonomous daily routines, and engages in personalized interaction with players."
+          - "Led development of 10+ LLM-powered authoring tools spanning narrative/dialogue generation, behavior tree generation from natural language, construction blueprint generation, automated cutscene generation, and more."
+          - "Explored an automated pipeline where an LLM agent autonomously generates production tools end-to-end -- from UI design to code implementation to automated testing."
+          - "Contributed to core gameplay systems including character animation, NPC systems, dialogue, quests, combat, and in-game chat."
+          - "Previously responsible for building the global distributed server architecture supporting 1M+ DAU for shared-world multiplayer."
+
+      - company: ByteDance, Nuverse
+        position: Senior Software Engineer
+        location: China
+        start_date: "2021-06"
+        end_date: "2024-07"
+        summary: Developed game AI systems and production tools across multiple studio projects, spanning tactical combat AI, open-world ambient NPC behavior, and AI-assisted content generation.
+        highlights:
+          - "Built the battle AI system for Dragonheir: Silent Gods (launched strategy RPG) using behavior trees and state machines for auto-chess-style tactical combat. Explored RL for hero lineup composition."
+          - "Designed complex multi-phase boss AI (comparable to Souls-like titles) using layered behavior trees and state machines."
+          - "Built an event-driven blueprint-based NPC AI system supporting 1,000+ concurrent NPCs per scene for a text-heavy DnD-themed CRPG."
+          - "Developed a utility-based ambient NPC behavior system for an internal open-world ARPG project."
+          - "Explored generative AI in game production, including diffusion-based concept art/UI icon generation, text-to-motion generation, and video-based motion capture."
+          - "Built internal authoring tools including blueprint editors, behavior tree editors, narrative editors, quest editors, and dialogue editors."
+
+      - company: NetEase Games
+        position: Software Engineer
+        location: China
+        start_date: "2020-04"
+        end_date: "2021-06"
+        summary: Worked on an internal open-world MMORPG project.
+        highlights:
+          - "Developed gameplay systems (character control, camera, level system, etc.)."
+          - "Built companion (buddy) AI combining behavior trees and utility AI, enabling NPC allies to fight alongside players with context-aware combat behavior."
+
+      - company: NetEase Games
+        position: Software Engineer
+        location: China
+        start_date: "2017-07"
+        end_date: "2019-07"
+        summary: Worked on Onmyoji Arena, a launched MOBA title.
+        highlights:
+          - "Shipped multiple gameplay systems including hero skills, in-game activity systems, and battle pass systems."
+          - "Gained working knowledge of utility-based MOBA combat AI and participated in exploratory research on RL-based PvP agents."
 
     Publications:
       - title: New bionic navigation algorithm based on the visual navigation mechanism of bees
@@ -144,7 +152,7 @@ cv:
         publisher: China Sciencepaper, 2015(10), 967-970
         releaseDate: "2015"
         url: https://www.paper.edu.cn/releasepaper/content/201412-607
-        summary: L. Wang, Y. Huang, and J. Liu. Second author. In Chinese.
+        summary: L. Wang, Y. Huang, and J. Liu. Second author.
 
       - title: CNN-based visual place recognition method
         authors:
@@ -152,7 +160,7 @@ cv:
           - Jing Liu
         publisher: Computer & Digital Engineering, 2018(6)
         releaseDate: "2018"
-        summary: Y. Huang and J. Liu. First author. In Chinese.
+        summary: Y. Huang and J. Liu. First author.
 
     Skills:
       - name: Programming
@@ -160,39 +168,27 @@ cv:
           - Python
           - C/C++
           - C#
-      - name: AI and machine learning
+      - name: AI / ML
         keywords:
           - PyTorch
-          - Hugging Face
-          - LLM agents
-          - LangChain
-          - RAG
+          - Hugging Face Transformers
+          - Reinforcement Learning
+          - LLM Agent Development (LangChain, RAG, Context Engineering)
+          - Multimodal Interaction (ASR, TTS, Emotion Recognition)
       - name: Game AI
         keywords:
-          - Behavior trees
-          - Finite-state machines
+          - Behavior Trees
+          - Finite-state Machines
           - Utility AI
-          - NPC systems
-          - Combat AI
-          - Gameplay systems
-      - name: Game engines and tools
+      - name: Game Engines and Tools
         keywords:
           - Unity
           - Unreal Engine
-          - Game editors
-          - AI-assisted production tools
-      - name: Backend and infrastructure
+          - Custom Editors and Authoring Tools
+      - name: Backend and Infrastructure
         keywords:
           - FastAPI
           - WebSocket
           - Docker
           - Linux
-          - Distributed server architecture
-      - name: Experimentation and visualization
-        keywords:
-          - RLCard-based agent evaluation
-          - Trajectory analysis
-          - Alignment metrics
-          - Radar charts
-          - Heatmaps
-          - Drift plots
+          - Distributed Server Architecture
