@@ -9,8 +9,12 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>AI and Tools Lead, Tencent SGRA Studio</p>
-    <p>Game AI · NPC Systems · LLM Agents</p>
+    <p class="profile-role">AI and Tools Lead, Tencent SGRA Studio</p>
+    <div class="profile-tags">
+      <span class="profile-tag">Game AI</span>
+      <span class="profile-tag">NPC Systems</span>
+      <span class="profile-tag">LLM Agents</span>
+    </div>
     <p><a href="mailto:yufeng_nba@163.com">yufeng_nba@163.com</a></p>
 
 selected_papers: false
@@ -40,11 +44,44 @@ With 8+ years across Tencent, ByteDance, and NetEase, I've shipped real games th
 
 ## Titles I've worked on
 
-- [**Animula Nook**](https://store.steampowered.com/app/3767320/Animula_Nook/) *(wishlists open)* — A cozy miniature life-sim where you shrink down and build a whimsical world on your desk. I lead the AI and tools team, responsible for NPC intelligence and 10+ LLM-powered authoring tools. ([Steam](https://store.steampowered.com/app/3767320/Animula_Nook/) · [WeGame](https://www.wegame.com.cn/store/2002539/Animula_Nook) · [Official Site](https://life.qq.com/))
-
-- [**Dragonheir: Silent Gods**](https://dragonheir.sgrastudio.com/) *(launched 2023)* — An open-world high-fantasy strategy RPG with D&D content. I built the tactical combat AI and an event-driven NPC narrative system powering 1,000+ concurrent NPCs per scene. ([Steam](https://store.steampowered.com/app/2203070/Dragonheir_Silent_Gods/) · [Official Site](https://dragonheir.sgrastudio.com/) · [App Store](https://apps.apple.com/app/dragonheir-silent-gods/id1677498498))
-
-- [**Onmyoji Arena**](https://www.onmyojiarena.us/) *(launched 2018)* — NetEase's flagship MOBA with elegant Heian-era aesthetics. I shipped various gameplay systems including hero skills, activities, battle pass, and more. ([Official Site](https://www.onmyojiarena.us/) · [App Store](https://apps.apple.com/app/onmyoji-arena/id1343073274) · [Google Play](https://play.google.com/store/apps/details?id=com.netease.g78na.gb))
+<div class="game-cards">
+  <div class="game-card">
+    <div class="game-card-body">
+      <h3 class="game-card-title">Animula Nook</h3>
+      <span class="game-card-status">wishlists open</span>
+      <p class="game-card-desc">A cozy miniature life-sim where you shrink down and build a whimsical world on your desk. I lead the AI and tools team, responsible for NPC intelligence and 10+ LLM-powered authoring tools.</p>
+      <div class="game-card-links">
+        <a href="https://store.steampowered.com/app/3767320/Animula_Nook/">Steam</a>
+        <a href="https://www.wegame.com.cn/store/2002539/Animula_Nook">WeGame</a>
+        <a href="https://life.qq.com/">Official Site</a>
+      </div>
+    </div>
+  </div>
+  <div class="game-card">
+    <div class="game-card-body">
+      <h3 class="game-card-title">Dragonheir: Silent Gods</h3>
+      <span class="game-card-status">launched 2023</span>
+      <p class="game-card-desc">An open-world high-fantasy strategy RPG with D&amp;D content. I built the tactical combat AI and an event-driven NPC narrative system powering 1,000+ concurrent NPCs per scene.</p>
+      <div class="game-card-links">
+        <a href="https://store.steampowered.com/app/2203070/Dragonheir_Silent_Gods/">Steam</a>
+        <a href="https://dragonheir.sgrastudio.com/">Official Site</a>
+        <a href="https://apps.apple.com/app/dragonheir-silent-gods/id1677498498">App Store</a>
+      </div>
+    </div>
+  </div>
+  <div class="game-card">
+    <div class="game-card-body">
+      <h3 class="game-card-title">Onmyoji Arena</h3>
+      <span class="game-card-status">launched 2018</span>
+      <p class="game-card-desc">NetEase's flagship MOBA with elegant Heian-era aesthetics. I shipped various gameplay systems including hero skills, activities, battle pass, and more.</p>
+      <div class="game-card-links">
+        <a href="https://www.onmyojiarena.us/">Official Site</a>
+        <a href="https://apps.apple.com/app/onmyoji-arena/id1343073274">App Store</a>
+        <a href="https://play.google.com/store/apps/details?id=com.netease.g78na.gb">Google Play</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 ## Background
 

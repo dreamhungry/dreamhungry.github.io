@@ -101,6 +101,30 @@
 }
 
 .post {
+  .post-header {
+    margin-bottom: 1.5rem;
+
+    .post-title {
+      font-size: 2.5rem;
+      letter-spacing: -0.5px;
+      font-weight: 800;
+    }
+
+    .desc {
+      font-size: 1.05rem;
+      color: var(--global-text-color-light);
+      margin-top: 0.25rem;
+    }
+  }
+
+  article h2 {
+    padding-bottom: 0.35rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid var(--global-theme-color);
+    display: inline-block;
+  }
+
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
