@@ -11,9 +11,9 @@ profile:
   more_info: >
     <p class="profile-role">AI and Tools Lead, Tencent SGRA Studio</p>
     <div class="profile-tags">
-      <span class="profile-tag">Game AI</span>
-      <span class="profile-tag">NPC Systems</span>
-      <span class="profile-tag">LLM Agents</span>
+      <span class="profile-tag">Game Developer</span>
+      <span class="profile-tag">AI Engineer</span>
+      <span class="profile-tag">Tool Builder</span>
     </div>
     <p><a href="mailto:yufeng_nba@163.com">yufeng_nba@163.com</a></p>
 
