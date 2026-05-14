@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-Hi, I'm **Yufeng Huang** — I build intelligent NPCs and AI-powered tools for video games. I currently lead a small AI and tools group at [Tencent SGRA Studio](https://www.sgrastudio.com/), where I work on NPC intelligence, agent behavior, and AI-assisted production workflows for an upcoming cozy life-sim title.
+Hi, I'm **Yufeng Huang** — I build intelligent NPCs and AI-powered tools for video games. I currently lead a small AI and tools group at [Tencent SGRA Studio](https://sgrastudio.com/), where I work on NPC intelligence, agent behavior, and AI-assisted production workflows for an upcoming cozy life-sim title.
 
 With 8+ years across Tencent, ByteDance, and NetEase, I've shipped real games that millions of players have actually played — from MOBA combat AI to open-world NPC behavior to LLM-driven autonomous characters. Lately, I've become deeply interested in **human-centered AI agents**: how to build virtual characters that feel emotionally aware, remember who you are, and grow alongside you over time.
 
@@ -42,9 +42,9 @@ With 8+ years across Tencent, ByteDance, and NetEase, I've shipped real games th
 
 - [**Animula Nook**](https://store.steampowered.com/app/3767320/Animula_Nook/) *(wishlists open)* — A cozy miniature life-sim where you shrink down and build a whimsical world on your desk. I lead the AI and tools team, responsible for NPC intelligence and 10+ LLM-powered authoring tools. ([Steam](https://store.steampowered.com/app/3767320/Animula_Nook/) · [WeGame](https://www.wegame.com.cn/store/2002539/Animula_Nook) · [Official Site](https://life.qq.com/))
 
-- [**Dragonheir: Silent Gods**](https://dragonheir.sgrastudio.com/) *(launched 2023)* — An open-world high-fantasy strategy RPG with D&D content. I built the battle AI system for auto-chess-style tactical combat and designed multi-phase boss AI. ([Steam](https://store.steampowered.com/app/2203070/Dragonheir_Silent_Gods/) · [Official Site](https://dragonheir.sgrastudio.com/) · [App Store](https://apps.apple.com/app/dragonheir-silent-gods/id1677498498))
+- [**Dragonheir: Silent Gods**](https://dragonheir.sgrastudio.com/) *(launched 2023)* — An open-world high-fantasy strategy RPG with D&D content. I built the tactical combat AI and an event-driven NPC narrative system powering 1,000+ concurrent NPCs per scene. ([Steam](https://store.steampowered.com/app/2203070/Dragonheir_Silent_Gods/) · [Official Site](https://dragonheir.sgrastudio.com/) · [App Store](https://apps.apple.com/app/dragonheir-silent-gods/id1677498498))
 
-- [**Onmyoji Arena**](https://www.onmyojiarena.us/) *(launched 2018)* — NetEase's flagship MOBA with elegant Heian-era aesthetics. I shipped hero skills, activity systems, and battle pass features. ([Official Site](https://www.onmyojiarena.us/) · [App Store](https://apps.apple.com/app/onmyoji-arena/id1343073274) · [Google Play](https://play.google.com/store/apps/details?id=com.netease.g78na.gb))
+- [**Onmyoji Arena**](https://www.onmyojiarena.us/) *(launched 2018)* — NetEase's flagship MOBA with elegant Heian-era aesthetics. I shipped various gameplay systems including hero skills, activities, battle pass, and more. ([Official Site](https://www.onmyojiarena.us/) · [App Store](https://apps.apple.com/app/onmyoji-arena/id1343073274) · [Google Play](https://play.google.com/store/apps/details?id=com.netease.g78na.gb))
 
 ## Background
 
