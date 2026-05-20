@@ -15,7 +15,7 @@ profile:
       <span class="profile-tag">AI Engineer</span>
       <span class="profile-tag">Tool Builder</span>
     </div>
-    <p><a href="mailto:yufeng_nba@163.com">yufeng_nba@163.com</a></p>
+    <p><a href="mailto:yufeng.huang.ai@gmail.com">yufeng.huang.ai@gmail.com</a></p>
 
 selected_papers: false
 social: true
@@ -36,6 +36,8 @@ Hi, I'm **Yufeng Huang** — I build intelligent NPCs and AI-powered tools for v
 With 8+ years across Tencent, ByteDance, and NetEase, I've shipped real games that millions of players have actually played — from MOBA combat AI to open-world NPC behavior to LLM-driven autonomous characters. Lately, I've become deeply interested in **human-centered AI agents**: how to build virtual characters that feel emotionally aware, remember who you are, and grow alongside you over time.
 
 ## Research interests
+
+I study AI agents in Human-AI Interaction, focusing on how they build long-term relationships with users and participate in collaborative and co-creative processes. My current interests include:
 
 - Emotionally aware and personalized AI agents with long-term memory
 - Autonomous character behavior in interactive virtual environments
@@ -100,7 +102,14 @@ I received my **M.S. in Pattern Recognition and Intelligent Systems** from Huazh
 
 ## Beyond work
 
-Games (lots of them — Souls-likes and CRPGs like *Baldur's Gate 3* are my favorites), anime, novels (I'd love to write one someday), rock & electronic music, and traveling to places I've never been. Also: I have a Maltese named **Latiao** (辣条) — he's small, fluffy, and fully in charge of the household.
+
+A few other things that make me, me:
+
+- **Indie dev on the side** — building my own games, apps, and tools around small problems worth solving, with the quiet belief that good products can make life a little better.
+- **A sucker for stories** in any form — novels, films, TV series, games — and slowly writing a novel of my own.
+- **Always plotting the next trip.** Life is a collection of experiences; I want to collect as many people, stories, and skylines as possible — from this planet outward.
+- **Latiao** (辣条), my Maltese, who is small, fluffy, and fully in charge of the household.
+
 
 ---
 
