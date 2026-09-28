@@ -30,37 +30,33 @@ cv:
         studyType: M.S.
         start_date: "2014-09"
         end_date: "2017-06"
-        score: GPA 3.43
+        score: GPA 3.75/4.0
         courses:
+          - Machine Learning and Data Mining
           - Pattern Recognition
           - Computer Vision
-          - Machine Learning and Data Mining
-          - Digital Image Processing
-          - Digital Video Processing
           - Matrix Theory
           - Stochastic Processes
         highlights:
-          - "GPA: 3.43."
+          - "GPA: 3.75/4.0."
           - "Thesis: CNN-based Visual Place Recognition in Changing Environments."
 
       - institution: Huazhong University of Science and Technology
         location: Wuhan, China
-        area: Measurement and Control Technology and Instrumentation
+        area: "Measurement & Control Technology and Instrumentation"
         studyType: B.E.
         start_date: "2010-09"
         end_date: "2014-06"
-        score: GPA 3.73
+        score: GPA 3.73/4.0
         courses:
-          - Calculus
-          - Linear Algebra
-          - Probability Theory
           - C Programming
           - Data Structures
           - Computer Networks
-          - Automatic Control
-          - Digital Signal Processing
+          - Calculus
+          - Linear Algebra
+          - Probability Theory
         highlights:
-          - "GPA: 3.73."
+          - "GPA: 3.73/4.0."
 
     Selected Research Projects:
       - name: Mimosa -- Multimodal Emotion-Aware Virtual Companion System
