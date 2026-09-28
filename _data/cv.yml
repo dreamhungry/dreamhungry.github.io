@@ -4,13 +4,11 @@ cv:
   website: https://www.dreamhungry.com/
   image: ""
   summary: >
-    AI systems engineer with 8+ years of industry experience in game AI, interactive agent systems,
-    and AI-assisted production tools across major studios (Tencent, ByteDance, NetEase).
-    My work spans the full spectrum of agent intelligence -- from traditional behavior trees and utility AI
-    to LLM-driven autonomous agents with personality and memory.
-    Research interests center on human-centered AI agents for interactive virtual environments --
-    how to build agents that are emotionally intelligent, personalized, and capable of
-    sustaining believable long-term relationships with users.
+    Game AI and tools engineering lead with 8+ years of industry experience at Tencent, ByteDance,
+    and NetEase. My work spans behavior-based NPC intelligence, LLM-driven agents, AI-assisted
+    production workflows, and generative AI for games. My research sits at the intersection of AI
+    for games, intelligent interactive agents, and human-AI co-creation, with a focus on agents that
+    augment human game designers throughout the creation process.
 
   social_networks:
     - network: GitHub
@@ -20,10 +18,10 @@ cv:
 
   sections:
     Research Interests:
-      - bullet: Emotionally aware and personalized AI agents with long-term memory and adaptive behavior.
-      - bullet: Game AI and autonomous character behavior in interactive virtual environments.
-      - bullet: AI-assisted authoring tools for narrative, dialogue, and agent behavior design.
-      - bullet: Evaluation and alignment of agent behavior in interactive settings.
+      - bullet: Human-AI co-creation of games.
+      - bullet: Interactive and autonomous virtual agents.
+      - bullet: Multi-agent systems for creative and interactive tasks.
+      - bullet: Game-playing AI and generative AI for games.
 
     Education:
       - institution: Huazhong University of Science and Technology
@@ -85,43 +83,43 @@ cv:
 
     Experience:
       - company: Tencent, SGRA Studio
-        position: AI and Tools Lead
+        position: "Tools Engineering Team Lead & Game AI Lead"
         location: China
         start_date: "2024-07"
         end_date: Present
-        summary: Led a five-person AI and tools group for Animula Nook, a pre-launch interactive virtual-world simulation game, focusing on NPC intelligence, agent behavior, and AI-assisted production workflows.
+        summary: Lead the studio's tools engineering team and serve as its Game AI lead, overseeing development tools, AI-assisted production workflows, and game AI initiatives.
         highlights:
-          - "Designed and built a hybrid NPC AI architecture combining behavior trees, FSMs, utility AI, and LLM-based modules. Each NPC exhibits configurable personality traits, maintains conversation memory, performs autonomous daily routines, and engages in personalized interaction with players."
-          - "Led development of 10+ LLM-powered authoring tools spanning narrative/dialogue generation, behavior tree generation from natural language, construction blueprint generation, automated cutscene generation, and more."
-          - "Explored an automated pipeline where an LLM agent autonomously generates production tools end-to-end -- from UI design to code implementation to automated testing."
+          - "Designed and built a hybrid NPC AI architecture for Animula Nook, combining behavior trees, finite-state machines, utility AI, and LLM-based modules. Dozens of fully autonomous NPCs operate concurrently per scene, while behavioral level of detail and resource scheduling support millions of NPC entities across a persistent shared world."
+          - "Led development of 10+ LLM-powered authoring tools for narrative and dialogue generation, behavior tree generation from natural language, level generation, and automated cutscene generation, substantially reducing content creation time."
+          - "Built an experimental pipeline in which an LLM agent autonomously generates production tools from UI design through code implementation and automated testing, while exploring multi-agent approaches to general-purpose game generation."
           - "Contributed to core gameplay systems including character animation, NPC systems, dialogue, quests, combat, and in-game chat."
-          - "Previously responsible for building the global distributed server architecture supporting 1M+ DAU for shared-world multiplayer."
+          - "Designed and built the globally distributed server architecture for Animula Nook, supporting 1M+ DAU in a single shared world."
 
       - company: ByteDance, Nuverse
         position: Senior Software Engineer
         location: China
         start_date: "2021-06"
         end_date: "2024-07"
-        summary: Developed game AI systems and production tools across multiple studio projects, spanning tactical combat AI, open-world ambient NPC behavior, and AI-assisted content generation.
+        summary: Worked at Nuverse from June 2021 to December 2023 and from February to July 2024, developing game AI systems and production tools across multiple studio projects.
         highlights:
-          - "Built the battle AI system for Dragonheir: Silent Gods (launched strategy RPG) using behavior trees and state machines for auto-chess-style tactical combat. Explored RL for hero lineup composition."
-          - "Designed complex multi-phase boss AI (comparable to Souls-like titles) using layered behavior trees and state machines."
-          - "Built an event-driven blueprint-based NPC AI system supporting 1,000+ concurrent NPCs per scene for a text-heavy DnD-themed CRPG."
-          - "Developed a utility-based ambient NPC behavior system for an internal open-world ARPG project."
-          - "Explored generative AI in game production, including diffusion-based concept art/UI icon generation, text-to-motion generation, and video-based motion capture."
-          - "Built internal authoring tools including blueprint editors, behavior tree editors, narrative editors, quest editors, and dialogue editors."
+          - "Built the battle AI for Dragonheir: Silent Gods, a launched strategy RPG with millions of downloads, using behavior trees and state machines for auto-chess-style tactical combat. Explored reinforcement learning for hero lineup composition and positioning strategies."
+          - "Designed complex multi-phase boss AI using hierarchical behavior trees and state machines, modeling player-adaptive attack patterns and phase transitions."
+          - "Built an event-driven, blueprint-based NPC AI system for Dragonheir: Silent Gods, supporting 1,000+ concurrent NPCs per scene and extensive scripted narrative performances."
+          - "Developed a utility-based ambient NPC behavior system for an internal open-world ARPG, enabling context-aware daily routines and environmental responses."
+          - "Explored generative AI in game production, including concept art and UI icon generation with diffusion models, text-to-motion generation, and video-based motion capture."
+          - "Developed internal blueprint, behavior tree, narrative, quest, and dialogue editors, gaining direct insight into designer workflows and human-AI co-creation needs."
 
-      - company: NetEase Games
+      - company: NetEase Games, Dahua Studio
         position: Software Engineer
         location: China
         start_date: "2020-04"
         end_date: "2021-06"
-        summary: Worked on an internal open-world MMORPG project.
+        summary: Worked on an internal open-world MMORPG project, developing gameplay systems and companion AI.
         highlights:
-          - "Developed gameplay systems (character control, camera, level system, etc.)."
-          - "Built companion (buddy) AI combining behavior trees and utility AI, enabling NPC allies to fight alongside players with context-aware combat behavior."
+          - "Developed core gameplay systems including character control, camera, and level systems."
+          - "Built companion AI combining behavior trees and utility AI, enabling NPC allies to fight alongside players with context-aware combat behavior."
 
-      - company: NetEase Games
+      - company: NetEase Games, Dahua Studio
         position: Software Engineer
         location: China
         start_date: "2017-07"
@@ -129,7 +127,7 @@ cv:
         summary: Worked on Onmyoji Arena, a launched MOBA title.
         highlights:
           - "Shipped multiple gameplay systems including hero skills, in-game activity systems, and battle pass systems."
-          - "Gained working knowledge of utility-based MOBA combat AI and participated in exploratory research on RL-based PvP agents."
+          - "Gained working knowledge of utility-based MOBA combat AI and participated in exploratory research on reinforcement-learning-based PvP agents."
 
     Publications:
       - title: New bionic navigation algorithm based on the visual navigation mechanism of bees
