@@ -100,7 +100,7 @@ I am open to research collaborations and conversations.
 
 Before Tencent, I was a **Senior Software Engineer at ByteDance Nuverse** (June 2021–December 2023 and February–July 2024), where I developed tactical combat AI, multi-phase boss AI, large-scale narrative NPC systems, open-world ambient behavior, generative AI workflows, and production tools across multiple game projects. At **NetEase Games** (July 2017–July 2019 and April 2020–June 2021), I shipped gameplay systems for _Onmyoji Arena_ and built companion AI for an internal open-world MMORPG.
 
-I received my **M.S. in Pattern Recognition and Intelligent Systems** from Huazhong University of Science and Technology (HUST), where my thesis focused on CNN-based visual place recognition. My **B.E.** is also from HUST.
+I received my **M.Eng. in Pattern Recognition and Intelligent Systems** from Huazhong University of Science and Technology (HUST), where my thesis focused on CNN-based visual place recognition. My **B.Eng.** is also from HUST.
 
 ## Beyond work
 
