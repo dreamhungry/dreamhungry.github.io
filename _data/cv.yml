@@ -27,7 +27,7 @@ cv:
       - institution: Huazhong University of Science and Technology
         location: Wuhan, China
         area: Pattern Recognition and Intelligent Systems
-        studyType: M.S.
+        studyType: M.Eng.
         start_date: "2014-09"
         end_date: "2017-06"
         score: GPA 3.75/4.0
@@ -44,7 +44,7 @@ cv:
       - institution: Huazhong University of Science and Technology
         location: Wuhan, China
         area: "Measurement & Control Technology and Instrumentation"
-        studyType: B.E.
+        studyType: B.Eng.
         start_date: "2010-09"
         end_date: "2014-06"
         score: GPA 3.73/4.0
